@@ -1,6 +1,6 @@
-# OCA TSC
+# OCA Technical Steering Committee (TSC)
 
-Repository for the work of the OCA's Technical Steering Committee.
+Repository for the work of the OCA's Technical Steering Committee. The current TSC members [are listed here](https://github.com/opencybersecurityalliance/oasis-open-project/blob/master/TECHNICAL-STEERING-COMMITTEE.md).
 
 Check out the archives of the [Technical Steering Committee mailing list](https://lists.oasis-open-projects.org/g/oca-tsc/topics). This is the discussion list for use by the members of the TSC.
 
