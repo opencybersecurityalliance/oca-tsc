@@ -9,11 +9,11 @@ Add [descriptions and links to any other relevant TSC assests such as a Slack ch
 
 # Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details how to join the project, contribute changes to our repositories and communicate with the rest of the project contributors. Please become familiar with and follow the [code of conduct](CODE-OF-CONDUCT.md).
+Please read [CONTRIBUTING.md](https://github.com/opencybersecurityalliance/oasis-open-project/blob/master/CONTRIBUTING.md) for details how to join OCA, contribute changes to our repositories and communicate with the rest of the project contributors. Please become familiar with and follow the [code of conduct](https://github.com/opencybersecurityalliance/oasis-open-project/blob/master/CODE_OF_CONDUCT.md).
 
 # Governance
 
-[Open Project name] operates under the terms of the [Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process) and the applicable license(s) specified in [LICENSE.md](LICENSE.md). Further details can be found in [GOVERNANCE.md](GOVERNANCE.md).
+The Open Cybersecurity Alliance operates under the terms of the [Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process) and the applicable license(s) specified in [LICENSE.md](./LICENSE.md). Further details can be found in [GOVERNANCE.md](https://github.com/opencybersecurityalliance/oasis-open-project/blob/master/GOVERNANCE.md).
 
 # CLA & Non-assert signatures required
 
