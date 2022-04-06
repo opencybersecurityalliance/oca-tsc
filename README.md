@@ -1,4 +1,4 @@
-# Technical Steering Committee Documentation Repository
+# OCA TSC Documentation
 
 This repository is for OCA TSC documentation drafting, publishing, and improvement.
 
