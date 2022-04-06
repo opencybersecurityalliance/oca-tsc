@@ -1,20 +1,15 @@
-# OCA Technical Steering Committee (TSC)
+# Technical Steering Committee Documentation Repository
 
-Repository for the work of the OCA's Technical Steering Committee. The current TSC members [are listed here](https://github.com/opencybersecurityalliance/oasis-open-project/blob/master/TECHNICAL-STEERING-COMMITTEE.md).
+This repository is for OCA TSC documentation drafting, publishing, and improvement.
 
-Check out the archives of the [Technical Steering Committee mailing list](https://lists.oasis-open-projects.org/g/oca-tsc/topics). This is the discussion list for use by the members of the TSC.
+### OCA Technical Steering Committee (TSC)
 
-##TODO
-Add [descriptions and links to any other relevant TSC assests such as a Slack channel].
+- [current members](https://github.com/opencybersecurityalliance/oasis-open-project/blob/master/TECHNICAL-STEERING-COMMITTEE.md)
+- [maillist archive](https://lists.oasis-open-projects.org/g/oca-tsc/topics)
+- [slack channel](https://open-cybersecurity.slack.com/archives/GU3CC7AR0)
 
-# Contributing
+### Contributing to TSC-Managed Documentation
 
-Please read [CONTRIBUTING.md](https://github.com/opencybersecurityalliance/oasis-open-project/blob/master/CONTRIBUTING.md) for details how to join OCA, contribute changes to our repositories and communicate with the rest of the project contributors. Please become familiar with and follow the [code of conduct](https://github.com/opencybersecurityalliance/oasis-open-project/blob/master/CODE_OF_CONDUCT.md).
+This repository publishes TSC-managed documentation such as OCA project guideline, including code requirement, governance specification, contribution workflow, etc. TSC members are responsible for initializing and drafting the first version of a documentation collaboratively, with help from other OCA membmers. After the release of a documentation in this repo, the documentation will become public accessible and welcome comments/suggestions/edits by GitHub Issues from members of any OCA project. TSC will discuss tickets in GitHub Issues monthly and merge pull request to improve a documentation.
 
-# Governance
-
-The Open Cybersecurity Alliance operates under the terms of the [Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process) and the applicable license(s) specified in [LICENSE.md](./LICENSE.md). Further details can be found in [GOVERNANCE.md](https://github.com/opencybersecurityalliance/oasis-open-project/blob/master/GOVERNANCE.md).
-
-# CLA & Non-assert signatures required
-
-All technical contributions must be covered by a Contributor's License Agreement. This requirement allows our work to advance through OASIS standards development stages and potentially be submitted to de jure organizations such as ISO. You will get a prompt to sign this document when you submit your first pull request to a project repository, or you can sign [here](https://www.oasis-open.org/open-projects/cla/oasis-open-projects-individual-contributor-license-agreement-i-cla/). If you are contributing on behalf of your employer, you must also sign the ECLA [here](https://www.oasis-open.org/open-projects/cla/entity-cla-20210630/).
+All contributions must be covered by a [Contributor's License Agreement](https://www.oasis-open.org/open-projects/cla/oasis-open-projects-individual-contributor-license-agreement-i-cla/) and [ECLA](https://www.oasis-open.org/open-projects/cla/entity-cla-20210630/) (if you are contributing on behalf of your employer). You will get a prompt to sign this document when you submit your first pull request to this repository.
